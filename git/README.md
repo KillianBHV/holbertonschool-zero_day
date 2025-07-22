@@ -1,0 +1,1 @@
+Commit in git directory
